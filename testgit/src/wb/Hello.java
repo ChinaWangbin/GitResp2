@@ -7,4 +7,5 @@ package wb;
  */
 public class Hello {
     private  int sex;
+    private  String age;
 }
