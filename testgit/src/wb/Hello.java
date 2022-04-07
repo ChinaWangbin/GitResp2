@@ -6,4 +6,5 @@ package wb;
  * @Description: wb
  */
 public class Hello {
+    private  int sex;
 }
